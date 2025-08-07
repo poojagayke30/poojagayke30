@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/poojagayke30/poojagayke30/main/profile.jpg" alt="Pooja's Profile Image" width="200" />
+  <img src="https://raw.githubusercontent.com/poojagayke30/poojagayke30/main/profile.jpg" alt="Pooja's Profile Image" hight="250" width="300" />
 </p>
 
 
 
 👋 Hi, I'm Pooja! 😊
+
 A passionate Full Stack Developer from India 🇮🇳
 
 🔭 I’m currently working on: Full stack Social media app
