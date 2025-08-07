@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="banner" width="100%" />
+[<img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="banner" width="100%" />](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer-girl&psig=AOvVaw2o2xbrsFu8nBCjNPpQGtQ8&ust=1754623498718000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIj9uoXg944DFQAAAAAdAAAAABAE)
 
 
 👋 Hi, I'm Pooja! 😊
