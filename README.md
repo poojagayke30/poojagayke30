@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/poojagayke30/poojagayke30/main/assets/profile.jpg" alt="Pooja's Profile Image" width="200"/>
+  <img src="https://raw.githubusercontent.com/poojagayke30/poojagayke30/main/profile.jpg" alt="Pooja's Profile Image" width="200" />
 </p>
+
 
 
 👋 Hi, I'm Pooja! 😊
